@@ -1,10 +1,14 @@
 {
   "schema": "framedrop.install/v1",
   "name": "Space Explorers 360",
+  "version": "20261102",
   "files": [
     {
       "url": "https://fivedegreesvr.github.io/se360-install/se360-vr-linux-arm64.zip",
       "sha256": "49e49a3fb4fd53a2062c5b758523c0bb663a80a41ceb1f1d365326d4d1a72f71"
     }
-  ]
+  ],
+  "frameport": {
+    "description": "Native Vulkan/OpenXR 360-degree stereoscopic video player for the Steam Frame."
+  }
 }
