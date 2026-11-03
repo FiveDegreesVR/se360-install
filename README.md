@@ -8,3 +8,16 @@ Needs [FramePort](https://frameport.app). The button names the Steam entry from 
 
 - `se360-vr-linux-arm64.zip`: ARM64 build for drag-and-drop into FramePort.
 - `se360-vr.framedrop.json`: install manifest (shared framedrop.install/v1 format).
+
+## Artwork
+
+Steam library art, all public-domain NASA photography (see the private repo's
+`player/sideload/artwork/SOURCES.md` for the exact photos). FramePort picks
+up `artwork/icon.png` automatically at install; apply the rest per game in
+FramePort under **Name and artwork → Your own images**:
+
+- `artwork/icon.png` (512×512): Steam icon, also the install dialog image.
+- `artwork/portrait.jpg` (600×900): library grid cover.
+- `artwork/landscape.jpg` (920×430): wide banner.
+- `artwork/hero.jpg` (1920×620): game page backdrop.
+- `artwork/logo.png`: transparent title logo drawn over the hero.
