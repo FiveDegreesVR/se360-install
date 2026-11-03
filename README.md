@@ -6,5 +6,5 @@ Public install files for **Space Explorers 360** (native Steam Frame player).
 
 Needs [FramePort](https://frameport.app). The button names the Steam entry from the manifest and verifies the download.
 
-- \se360-vr-linux-arm64.zip\: ARM64 build for drag-and-drop into FramePort.
-- \se360-vr.framedrop.json\: install manifest (shared framedrop.install/v1 format).
+- `se360-vr-linux-arm64.zip`: ARM64 build for drag-and-drop into FramePort.
+- `se360-vr.framedrop.json`: install manifest (shared framedrop.install/v1 format).
