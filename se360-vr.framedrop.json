@@ -1,7 +1,6 @@
 {
   "schema": "framedrop.install/v1",
   "name": "Space Explorers 360",
-  "version": "20261102",
   "files": [
     {
       "url": "https://fivedegreesvr.github.io/se360-install/se360-vr-linux-arm64.zip",
